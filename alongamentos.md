@@ -44,3 +44,5 @@
 {"repeticoes":15,"data":"2023-06-01T08:12:45+03:00","habito":"wall angels"}
 {"tempo":59,"data":"2023-06-01T08:44:47+03:00","habito":"hang"}
 {"tempo":4,"data":"2023-06-02T00:58:41+03:00","habito":"chest porta"}
+{"repeticoes":11,"data":"2023-06-02T11:44:13+03:00","habito":"wall angels"}
+{"tempo":180,"data":"2023-06-02T16:26:17+03:00","habito":"respiração quadrada"}
