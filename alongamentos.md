@@ -48,3 +48,9 @@
 {"tempo":180,"data":"2023-06-02T16:26:17+03:00","habito":"respiração quadrada"}
 {"repeticoes":15,"data":"2023-06-02T19:53:19+03:00","habito":"wall angels"}
 {"tempo":74,"data":"2023-06-02T19:54:48+03:00","habito":"chest porta"}
+{"tempo":56,"data":"2023-06-03T09:50:29+03:00","habito":"hang"}
+{"tempo":127,"data":"2023-06-03T09:52:58+03:00","habito":"chest porta"}
+{"tempo":60,"data":"2023-06-03T09:53:11+03:00","habito":"hamstrings"}
+{"tempo":60,"data":"2023-06-03T09:54:24+03:00","habito":"standing quad stretch"}
+{"tempo":60,"data":"2023-06-03T09:55:32+03:00","habito":"standing quad stretch"}
+{"repeticoes":15,"data":"2023-06-03T10:05:23+03:00","habito":"wall angels"}
