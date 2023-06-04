@@ -1,0 +1,17 @@
+{"repeticoes":9,"data":"2023-05-08T17:17:07+03:00","peso":17}
+{"repeticoes":7,"data":"2023-05-08T17:09:07+03:00","peso":17}
+{"repeticoes":8,"data":"2023-05-09T16:48:07+03:00","peso":20}
+{"repeticoes":5,"data":"2023-05-09T16:50:07+03:00","peso":20}
+{"repeticoes":8,"data":"2023-05-09T17:05:07+03:00","peso":20}
+{"repeticoes":9,"data":"2023-05-14T16:33:37+03:00","peso":16}
+{"repeticoes":7,"data":"2023-05-14T16:39:00+03:00","peso":16}
+{"repeticoes":9,"data":"2023-05-16T16:54:16+03:00","peso":18}
+{"repeticoes":6,"data":"2023-05-16T17:04:05+03:00","peso":18}
+{"repeticoes":10,"data":"2023-05-21T17:28:29+03:00","peso":16}
+{"repeticoes":8,"data":"2023-05-21T17:34:39+03:00","peso":16}
+{"repeticoes":8,"data":"2023-05-21T17:40:25+03:00","peso":16}
+{"repeticoes":7,"data":"2023-05-23T17:46:43+03:00","peso":20}
+{"repeticoes":6,"data":"2023-05-23T17:47:55+03:00","peso":20}
+{"repeticoes":9,"data":"2023-05-23T18:00:23+03:00","peso":20}
+{"repeticoes":9,"data":"2023-05-30T18:40:07+03:00","peso":20}
+{"repeticoes":5,"data":"2023-05-30T18:41:41+03:00","peso":20}
