@@ -62,3 +62,8 @@
 {"tempo":60,"data":"2023-06-04T08:04:04+03:00","habito":"hamstrings"}
 {"tempo":101,"data":"2023-06-04T08:06:55+03:00","habito":"chest porta"}
 {"repeticoes":15,"data":"2023-06-04T08:08:00+03:00","habito":"wall angels"}
+{"tempo":60,"data":"2023-06-05T07:49:18+03:00","habito":"standing quad stretch"}
+{"tempo":60,"data":"2023-06-05T07:50:25+03:00","habito":"standing quad stretch"}
+{"tempo":60,"data":"2023-06-05T07:51:30+03:00","habito":"hamstrings"}
+{"tempo":101,"data":"2023-06-05T07:54:22+03:00","habito":"chest porta"}
+{"tempo":56,"data":"2023-06-05T07:55:44+03:00","habito":"hang"}
