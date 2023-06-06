@@ -67,3 +67,8 @@
 {"tempo":60,"data":"2023-06-05T07:51:30+03:00","habito":"hamstrings"}
 {"tempo":101,"data":"2023-06-05T07:54:22+03:00","habito":"chest porta"}
 {"tempo":56,"data":"2023-06-05T07:55:44+03:00","habito":"hang"}
+{"tempo":180,"data":"2023-06-05T13:39:26+03:00","habito":"respiração quadrada"}
+{"tempo":77,"data":"2023-06-06T19:28:22+03:00","habito":"chest porta"}
+{"tempo":60,"data":"2023-06-06T19:28:41+03:00","habito":"standing quad stretch"}
+{"tempo":60,"data":"2023-06-06T19:29:46+03:00","habito":"standing quad stretch"}
+{"tempo":60,"data":"2023-06-06T19:30:53+03:00","habito":"hamstrings"}
