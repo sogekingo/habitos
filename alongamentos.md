@@ -72,3 +72,4 @@
 {"tempo":60,"data":"2023-06-06T19:28:41+03:00","habito":"standing quad stretch"}
 {"tempo":60,"data":"2023-06-06T19:29:46+03:00","habito":"standing quad stretch"}
 {"tempo":60,"data":"2023-06-06T19:30:53+03:00","habito":"hamstrings"}
+{"tempo":61,"data":"2023-06-06T19:49:43+03:00","habito":"hang"}
