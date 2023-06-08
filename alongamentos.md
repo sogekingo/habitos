@@ -73,3 +73,18 @@
 {"tempo":60,"data":"2023-06-06T19:29:46+03:00","habito":"standing quad stretch"}
 {"tempo":60,"data":"2023-06-06T19:30:53+03:00","habito":"hamstrings"}
 {"tempo":61,"data":"2023-06-06T19:49:43+03:00","habito":"hang"}
+{"tempo":113,"data":"2023-06-07T07:45:37+03:00","habito":"chest porta"}
+{"tempo":60,"data":"2023-06-07T07:45:43+03:00","habito":"standing quad stretch"}
+{"tempo":60,"data":"2023-06-07T07:46:50+03:00","habito":"standing quad stretch"}
+{"tempo":60,"data":"2023-06-07T07:47:58+03:00","habito":"hamstrings"}
+{"repeticoes":4,"data":"2023-06-07T07:50:26+03:00","habito":"wall angels"}
+{"repeticoes":15,"data":"2023-06-07T07:57:13+03:00","habito":"wall angels"}
+{"tempo":66,"data":"2023-06-07T08:17:40+03:00","habito":"hang"}
+{"tempo":92,"data":"2023-06-08T08:22:56+03:00","habito":"chest porta"}
+{"tempo":60,"data":"2023-06-08T08:23:05+03:00","habito":"standing quad stretch"}
+{"tempo":60,"data":"2023-06-08T08:24:10+03:00","habito":"standing quad stretch"}
+{"tempo":60,"data":"2023-06-08T08:25:16+03:00","habito":"hamstrings"}
+{"tempo":60,"data":"2023-06-08T08:41:36+03:00","habito":"hamstrings"}
+{"tempo":59,"data":"2023-06-08T08:42:52+03:00","habito":"hang"}
+{"repeticoes":15,"data":"2023-06-08T08:44:29+03:00","habito":"wall angels"}
+{"tempo":180,"data":"2023-06-08T10:31:42+03:00","habito":"respiração quadrada"}
