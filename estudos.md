@@ -1,0 +1,1 @@
+{"estudo":"estatistica","data":"2023-06-10T14:48:46+03:00"}
