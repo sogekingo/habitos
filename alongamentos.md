@@ -164,3 +164,15 @@
 {"tempo":73,"data":"2023-07-22T09:25:19+03:00","habito":"chest porta"}
 {"repeticoes":15,"data":"2023-07-22T09:26:32+03:00","habito":"wall angels"}
 {"tempo":66,"data":"2023-07-22T09:27:49+03:00","habito":"hamstrings"}
+{"tempo":77,"data":"2023-07-24T08:02:01+03:00","habito":"chest porta"}
+{"repeticoes":15,"data":"2023-07-24T08:03:22+03:00","habito":"wall angels"}
+{"tempo":87,"data":"2023-07-25T07:39:25+03:00","habito":"chest porta"}
+{"repeticoes":15,"data":"2023-07-25T07:40:46+03:00","habito":"wall angels"}
+{"tempo":68,"data":"2023-07-25T07:42:01+03:00","habito":"hamstrings"}
+{"tempo":95,"data":"2023-07-27T08:31:05+03:00","habito":"chest porta"}
+{"repeticoes":15,"data":"2023-07-27T08:32:21+03:00","habito":"wall angels"}
+{"tempo":69,"data":"2023-07-27T08:33:32+03:00","habito":"hamstrings"}
+{"tempo":4,"data":"2023-07-27T09:18:58+03:00","habito":"chest porta"}
+{"repeticoes":15,"data":"2023-07-27T09:19:05+03:00","habito":"wall angels"}
+{"tempo":95,"data":"2023-07-28T07:39:42+03:00","habito":"chest porta"}
+{"repeticoes":15,"data":"2023-07-28T07:40:47+03:00","habito":"wall angels"}
