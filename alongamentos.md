@@ -179,3 +179,12 @@
 {"tempo":73,"data":"2023-07-29T08:12:55+03:00","habito":"chest porta"}
 {"repeticoes":15,"data":"2023-07-29T08:13:59+03:00","habito":"wall angels"}
 {"tempo":96,"data":"2023-07-29T08:15:44+03:00","habito":"hamstrings"}
+{"tempo":54,"data":"2023-08-15T08:17:27+03:00","habito":"chest porta"}
+{"repeticoes":15,"data":"2023-08-15T08:18:37+03:00","habito":"wall angels"}
+{"tempo":79,"data":"2023-08-15T08:19:59+03:00","habito":"hamstrings"}
+{"tempo":86,"data":"2023-08-16T07:43:46+03:00","habito":"chest porta"}
+{"repeticoes":15,"data":"2023-08-16T07:44:50+03:00","habito":"wall angels"}
+{"tempo":68,"data":"2023-08-16T07:46:21+03:00","habito":"hamstrings"}
+{"tempo":82,"data":"2023-08-18T08:24:30+03:00","habito":"chest porta"}
+{"repeticoes":15,"data":"2023-08-18T08:25:30+03:00","habito":"wall angels"}
+{"tempo":71,"data":"2023-08-18T08:26:45+03:00","habito":"hang"}
