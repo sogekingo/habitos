@@ -218,3 +218,5 @@
 {"tempo":60,"data":"2023-09-06T08:25:14+03:00","habito":"hang"}
 {"tempo":73,"data":"2023-09-10T08:03:35+03:00","habito":"chest porta"}
 {"repeticoes":15,"data":"2023-09-10T08:06:40+03:00","habito":"wall angels"}
+{"tempo":87,"data":"2023-09-12T08:10:19+03:00","habito":"chest porta"}
+{"repeticoes":15,"data":"2023-09-12T08:14:41+03:00","habito":"wall angels"}
