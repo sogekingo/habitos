@@ -220,3 +220,4 @@
 {"repeticoes":15,"data":"2023-09-10T08:06:40+03:00","habito":"wall angels"}
 {"tempo":87,"data":"2023-09-12T08:10:19+03:00","habito":"chest porta"}
 {"repeticoes":15,"data":"2023-09-12T08:14:41+03:00","habito":"wall angels"}
+{"tempo":81,"data":"2023-09-13T07:40:52+03:00","habito":"chest porta"}
