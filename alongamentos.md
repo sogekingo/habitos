@@ -221,3 +221,6 @@
 {"tempo":87,"data":"2023-09-12T08:10:19+03:00","habito":"chest porta"}
 {"repeticoes":15,"data":"2023-09-12T08:14:41+03:00","habito":"wall angels"}
 {"tempo":81,"data":"2023-09-13T07:40:52+03:00","habito":"chest porta"}
+{"tempo":129,"data":"2023-09-14T08:15:31+03:00","habito":"chest porta"}
+{"repeticoes":15,"data":"2023-09-14T08:17:27+03:00","habito":"wall angels"}
+{"tempo":65,"data":"2023-09-14T08:18:38+03:00","habito":"hamstrings"}
