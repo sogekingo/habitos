@@ -224,3 +224,4 @@
 {"tempo":129,"data":"2023-09-14T08:15:31+03:00","habito":"chest porta"}
 {"repeticoes":15,"data":"2023-09-14T08:17:27+03:00","habito":"wall angels"}
 {"tempo":65,"data":"2023-09-14T08:18:38+03:00","habito":"hamstrings"}
+{"tempo":60,"data":"2023-09-26T17:57:42+03:00","habito":"seated figure 4"}
